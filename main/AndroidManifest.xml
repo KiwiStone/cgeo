@@ -3,7 +3,7 @@
     package="cgeo.geocaching"
     android:installLocation="auto"
     android:versionCode="20121203"
-    android:versionName="developer build" >
+    android:versionName="Kiwi Stone Custom Build" >
 
     <uses-sdk
         android:minSdkVersion="7"
